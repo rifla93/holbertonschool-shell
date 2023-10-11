@@ -1,2 +1,3 @@
 #!/bin/bash
-set Best=School
+local varBest
+local var=School
